@@ -1,4 +1,4 @@
-all: program lab1
+all: program lab2
 	
 program: waitlist.cpp
 	g++ waitlist.cpp -Wall -o program
